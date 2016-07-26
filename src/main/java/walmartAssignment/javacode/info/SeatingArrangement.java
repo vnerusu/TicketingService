@@ -7,7 +7,9 @@ import java.util.*;
 
 /**
  * @author vnerusu
- *
+ * Arrangement of seats in different predefined levels, 
+ * number of seats allocated to each level and their
+ * pricing
  */
 public enum SeatingArrangement {
 	

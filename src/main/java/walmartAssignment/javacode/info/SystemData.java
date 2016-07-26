@@ -1,5 +1,5 @@
 /**
- * Stores the status of the seating system
+ * 
  */
 package walmartAssignment.javacode.info;
 
@@ -12,7 +12,8 @@ import walmartAssignment.javacode.service.SeatHold;
 
 /**
  * @author vnerusu
- *
+ * Stores the status of the seating system
+ * Acts as a temporary database for each session
  */
 public class SystemData {
   

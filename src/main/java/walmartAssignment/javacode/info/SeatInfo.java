@@ -5,7 +5,7 @@ package walmartAssignment.javacode.info;
 
 /**
  * @author vnerusu
- *
+ * Initialize and assign information for each seat in the theater
  */
 public class SeatInfo {
 
